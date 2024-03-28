@@ -1,28 +1,15 @@
 import { defineConfig } from "vitepress";
 
+import themeConfig from "./themeConfig";
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "计算机408",
-  description: "一个讲解计算机408的网站",
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
-
-    sidebar: [
-      {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
-      },
-    ],
-
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
-  },
+	lang: "zh-CN",
+	title: "计算机 408 圣经",
+	description: "一个讲解计算机 408 的网站",
+	sitemap: {
+		hostname: "https://408.nvimer.org/",
+	},
+	lastUpdated: true,
+	themeConfig: themeConfig,
 });
