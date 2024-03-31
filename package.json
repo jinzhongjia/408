@@ -7,7 +7,11 @@
     "check": "prettier --check ."
   },
   "devDependencies": {
+    "@types/node": "^20.12.2",
     "prettier": "^3.2.5",
     "vitepress": "^1.0.1"
+  },
+  "dependencies": {
+    "@giscus/vue": "^3.0.0"
   }
 }
