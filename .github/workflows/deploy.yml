@@ -51,3 +51,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: page
           publish_dir: ./course/.vitepress/dist
+          cname: 408.nvimer.org
