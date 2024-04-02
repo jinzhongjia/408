@@ -1,3 +1,22 @@
 import { DefaultTheme } from "vitepress";
 
-export default [] as DefaultTheme.Sidebar;
+export default [
+  {
+    text: "什么是 408 ？",
+    link: "/",
+  },
+
+  {
+    text: "数据结构",
+    items: [
+      {
+        text: "绪论",
+        link: "/DataStructure/introduction",
+      },
+    ],
+  },
+  {
+    text: "计算机组成原理",
+    items: [],
+  },
+] as DefaultTheme.Sidebar;
