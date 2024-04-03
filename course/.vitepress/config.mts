@@ -12,4 +12,10 @@ export default defineConfig({
   },
   lastUpdated: true,
   themeConfig: themeConfig,
+  markdown: {
+    math: true,
+    image: {
+      lazyLoading: true,
+    },
+  },
 });
