@@ -13,6 +13,15 @@ export default [
         text: "绪论",
         link: "/DataStructure/introduction",
       },
+      {
+        text: "线性表",
+        items: [
+          {
+            text: "定义",
+            link: "/DataStructure/linearList/definition",
+          },
+        ],
+      },
     ],
   },
   {
