@@ -20,6 +20,10 @@ export default [
             text: "定义",
             link: "/DataStructure/linearList/definition",
           },
+          {
+            text: "顺序表示",
+            link: "/DataStructure/linearList/sequenceRepresent",
+          },
         ],
       },
     ],
