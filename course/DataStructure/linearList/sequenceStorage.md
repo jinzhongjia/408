@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# 顺序表示
+# 顺序存储
 
 > 线性表顺序存储又称之为顺序表，是一组地址连续的存储单元按顺序依次存储线性表中的数据元素，从而使逻辑上相邻的两个元素在物理位置上也相邻。
 
@@ -12,7 +12,7 @@ outline: deep
 
 以下是示意图：
 
-![线性表顺序结构示意图](./sequenceRepresent/sequenceStruct.png)
+![线性表顺序结构示意图](./sequenceStorage/sequenceStruct.png)
 
 > [!TIP] 提示
 >
@@ -24,7 +24,7 @@ outline: deep
 
 线性表元素类型为 `ElemType`，则线性表的顺序存储类型描述为：
 
-<<< ./sequenceRepresent/code.c#define
+<<< ./sequenceStorage/code.c#define
 
 > [!TIP] 提示
 >
@@ -36,43 +36,43 @@ outline: deep
 
 构造一个空的线性表，通过传入一个指针后再执行 `malloc` 来进行初始化。
 
-<<< ./sequenceRepresent/code.c#InitList
+<<< ./sequenceStorage/code.c#InitList
 
 ## 销毁线性表
 
 通过使用 `free` 来销毁线性表：
 
-<<< ./sequenceRepresent/code.c#DestroyList
+<<< ./sequenceStorage/code.c#DestroyList
 
 ## 判断表是否为空
 
 如果为空，返回 $0$，不然返回 $1$：
 
-<<< ./sequenceRepresent/code.c#ListEmpty
+<<< ./sequenceStorage/code.c#ListEmpty
 
 ## 线性表长度
 
 获取线性表的长度，实际上只要返回成员 $length$ 的值就可以：
 
-<<< ./sequenceRepresent/code.c#ListLength
+<<< ./sequenceStorage/code.c#ListLength
 
 ## 输出线性表
 
 当线性表不为空时，顺序显示表中的所有元素：
 
-<<< ./sequenceRepresent/code.c#DispList
+<<< ./sequenceStorage/code.c#DispList
 
 ## 获取某个数据元素的值
 
 从头逐个遍历整个线性表，如果找到返回 $1$，否则返回 $0$：
 
-<<< ./sequenceRepresent/code.c#GetElem
+<<< ./sequenceStorage/code.c#GetElem
 
 ## 按元素值查找位置
 
 在线性表中查找第一个与 $e$ 相等的元素，返回其位置，否则返回 $0$ ：
 
-<<< ./sequenceRepresent/code.c#LocateElem
+<<< ./sequenceStorage/code.c#LocateElem
 
 > [!NOTE] 时间复杂度
 > 最好情况：元素在表头，时间复杂度为 $O(1)$。
@@ -87,7 +87,7 @@ outline: deep
 
 若 $i$ 的输入不合法，则返回 $0$，表示插入失败；否则将第 $i$ 个元素以及其后面所有元素依次向后移动一个位置，在空出的位置插入新的元素 $e$，顺序表长度增加 $1$，插入成功，返回 $1$。
 
-<<< ./sequenceRepresent/code.c#ListInsert
+<<< ./sequenceStorage/code.c#ListInsert
 
 > [!NOTE] 时间复杂度
 > 最好情况：在表尾插入，则无需将元素后移，直接插入即可，时间复杂度为 $O(1)$。
@@ -102,7 +102,7 @@ outline: deep
 
 若 $i$ 的输入不合法，则返回 $0$，表示删除失败；否则将第 $i$ 个元素以及其后面所有元素依次向前移动一个位置，并获取被删除元素 $e$，顺序表长度减少 $1$，删除成功，返回 $1$。
 
-<<< ./sequenceRepresent/code.c#ListInsert
+<<< ./sequenceStorage/code.c#ListInsert
 
 > [!NOTE] 时间复杂度
 > 最好情况：在表尾删除，则无需将元素前移，直接删除即可，时间复杂度为 $O(1)$。
@@ -115,7 +115,7 @@ outline: deep
 
 对于有序的两个表 $L_{a}$ 和 $L_{b}$ 合并，只需要同时便利并比较两个表进行合并即可：
 
-<<< ./sequenceRepresent/code.c#ListMerge
+<<< ./sequenceStorage/code.c#ListMerge
 
 > [!NOTE] 时间复杂度
 > 由于需要完整遍历两个链表，故时间复杂度为 $O(L_{a}.length + L_{b}.length - 1)$。

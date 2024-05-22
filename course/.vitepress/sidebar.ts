@@ -21,8 +21,12 @@ export default [
             link: "/DataStructure/linearList/definition",
           },
           {
-            text: "顺序表示",
-            link: "/DataStructure/linearList/sequenceRepresent",
+            text: "顺序存储",
+            link: "/DataStructure/linearList/sequenceStorage",
+          },
+          {
+            text: "链式存储",
+            link: "/DataStructure/linearList/linkedStorage",
           },
         ],
       },
