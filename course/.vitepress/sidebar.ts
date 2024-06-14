@@ -38,7 +38,12 @@ export default [
   },
   {
     text: "计算机网络",
-    items: [],
+    items: [
+      {
+        text: "数据链路层",
+        link: "/Net/dataLinkLayer",
+      },
+    ],
   },
   {
     text: "操作系统",
