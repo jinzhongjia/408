@@ -1,0 +1,369 @@
+* 大作文
+
+品质品德（正向）
+社会问题（负向）
+社会现象（中性）
+
+三段论：
+ 图画格式：
+   1. 具体描述图画（重要）
+   2. 提取总结寓意主题
+   3. 总结第一段
+ 寓意阐述：
+   1. 总起句
+   2. 原因/作用
+ 个人评论
+
+* 第一段
+** 第一句话
+*** 描述图画
+
+这幅图描述了..
+
+this picture vividly indicates that + 描述图片
+
+As is graphically illustrated/shown in the above drawing, 描述图片
+
+It is symbolically suggested in the picture that + 描述图片
+
+what is distinctly demonstrated in the picture shows that + 描述图片
+
+Emerging the elaborately painted cartoon is a scene in which + 描述图片
+
+*** 描述图片
+
+某人在某地在做什么同时伴随什么（动作、表情、服饰）。
+
+1. sb/sth is/are doing sth with 伴随
+2. There be 句型
+   There is/are + sb/sth doing sth + 地点, doing sth with 伴随
+3. 倒装：
+   地点 + is/are doing sb/sth doing sth with 伴随
+
+常用人物词：
+  man, woman, boy, girl, mother, father, son, daughter, student, teenager, young people youngster
+
+动作词：
+  stand in, squat 蹲, walk, run, jump, hold, lie, crouch 蜷缩
+  
+地点词：
+  ont the step
+  in the chair
+  on the stool
+  on the boat
+  on the road
+  on the playground
+  at the fork of a road
+  at the crossroads
+  on the table
+  under the table
+  in front of the table
+  in front of the blackboard
+  on the bank
+  by the lake
+
+多人/多图：
+  1. 相反：
+     but, however, on the contrary, by contrast, contrarily
+  2. 相似：
+     meanwhile, similarly, at the same time, in the meanwhile
+** 第二句话
+
+obviously, the above pictures has/have shown an implication that utmost significance must be attached to 主题词
+
+老图片下面有文字说明，可在第一句、第二句和中间插入：
+
+#+begin_quote
+the caption below the picture indicates "文字说明"
+#+end_quote
+
+** 第三句话
+
+尽管这个图片很简单，但是其寓意深刻
+
+1. Simple as the picture is/seems to be the symbolic meaning is profound/thought-provoking as deep as ocean.
+2. Not only informative is the implication/meaning of the cartoon, but also enlightening/instructive as well.
+   
+* 第二段 社会问题 抽象品质（+）
+
+** 第一句话 主题句
+
+It is apparent/clear-cut that cartoonist aims at reminding us that as ..., nothing is more indispensable that xx which is supposed to be esteemed and encouraged/paid due attention
+
+1. as ..:
+   as a driving force for development as one of the most important qualities to one's growth
+
+负面话题：
+  1. 主题句
+  2. 原因列出句
+  3. 分析原因
+  4. 引出结果
+     
+** 第二句话：原因引出句
+
+1. we may cite a variety of reasons contributing to/responsible for this situation and the following two/three are the mains
+2. why, you may wonder, does the phenomenon occur/emerge?
+3. what are the mian reasons/dominant reasons/driving factors contributing to the phenomenon/problem reflected by the picture?
+   
+** 第三句话：分析原因
+
+逻辑连接词：
+  第一：
+    firstly, in the first place
+    for the one hand
+  第二：
+    secondly,in the second place
+    for the other hand
+  第三：
+    finally last but not least
+    more importantly
+
+原因：
+  1. 个人
+     a great number of people have (not) recognized the importance of xx (主题词) which sets a positive/negative example for the society.
+     替换表达：
+     people lack the conscious ness of xx (doing sth).
+  2. 他人：
+     individuals with any group or organization (do not) feel supported by peers, families or leaders
+  3. 经济：
+     the development of a country's economy has greatly affected peoples behavior or minds based on a variety of factors.
+  4. 科技：
+     the rapid development of technology has greatly changed peoples lives in many aspects, such as social interaction, education and so on
+  5. 法律法规的缺失
+     due to the lack of relevant/pertinent laws and regulations, thiose who + ... would not be publish
+     高级：
+       the lack of effective supervision and discipline contributed to the deterioration/worsening/aggravation of the problem because few would defy the law under the bare daylight if they know their behavior could incur server punishment
+       #+begin_quote 翻译
+       缺乏有效的监督和纪律导致了问题的恶化，因为如果他们知道自己的行为会受到严厉的惩罚，很少有人会在光天化日之下违抗法律
+       #+end_quote
+  6. 经济高级版
+     with the market-oriented economy devloping at one accelerating rate, it can be noticed that economic benefits become the sole.
+     pursuit for some people, regardless of their social responsibility/accountability, the notion of family and xx (主题词)
+  7. 经济高级版2
+     with the market-oriented economy developing at an accelerating rate, a mushrooming number of individuals are involved in doing sth, lsing sight of the significance of xx (主题词)
+  8. 社会成因
+     Another factors responsible for this phenomenon is xxx, which leads to the deterioration of the situation/which gives rise to the further worsening of the picture/situation xxx
+     
+社会的不良风气：undesirable social atmosphere
+社会竞争：increasing competition in current society
+不恰当的社会理念：improper/inappropriate notion of education/society
+生活工作压力大：growing pressure both from life and work
+媒体报道不公正：partial and prejudices coverage of mass media
+
+** 第四句话：引出结果
+
+were the heart-breaking/worrisome situation to continue, we should pay a heavy price.
+
+* 第二段 正向话题
+（作用/影响）
+
+主题句 + 主题作用 + 引出例子 + 举例
+
+** 第一句话
+
+the impressive cartoon subtly emphasis/highlight/demonstrates that xx has exerted a significant/thought-provoking/prefound/far-reaching/desirable/favorable/beneficial/conducive/positive influence on individual, society and nation.
+
+替换表达:
+from my perspective,/when it comes to me / from where I stand , xx , as a kind of social positive power, acts as a key role for the socialist ideological and ethical progress.
+
+在我看来，xx 作为 ...，对社会主义精神文明建设起到了重要的作用
+
+** 第二句话
+
+- 在逆境面前保持积极的心理状态
+
+with the quality of xx, we could maintain a positive metal state in the fa ce of adversity.
+
+- 有助于个人发展和自我提升
+  
+xx is a very indispensable trait to develop in life because it is intimately interlinked with one's own personal development and self-improvement.
+
+- 为他人树立一个好榜样
+xx will set a good example to your classmate because when they see you achieveing your goal with sheer xx, they will try their best to imitate
+
+- 有利于国家的发展
+
+The ability to overcome obstacles can determine the fate of country.
+
+For this reason, xx can be viewed  as one of the most important characteristics a nation should  possess.
+
+替换表达
+
+xx is conducive to paying the way for our further development/social development, thereby makeing it more likely to be a mature and responsible person/prosperous and strong country.
+
+- 为他人树立榜样（替换）
+  
+it goes without saying that xx has a positive/negative and lasting impact on our relationship with others.
+
+- 保持心态（替换）
+
+  xx is a kind of priceless mental spirit, which can support us no matter how difficult the world around us becomes.
+
+- 个人发展和提升（替换）
+
+xx is a desirable trait to possess, which can improve/boost/facilitate our working efficiency adn add meaning to our life.
+
+- 保持心态（替换）
+
+it is xx that keeps us continually doing something valuable and admirable in spite of difficulties and discouragement.
+
+** 第三句话
+
+引出例子
+
+1. our human history has been fill with a variety of examples of xx, with the following one being the most, 人名（同位语）
+
+2. Among all the factors relating to the topic that I heard, and experienced, the most impressive one is 人名（同位语）.
+
+例如：YaoMing, one of the most famous/prestigious athletes in the world.
+
+** 第四句话
+*** 强调句
+
+例子： It is due to xxx that he can do sth and do sth
+
+do sth:
+  - achieve success
+  - realize his dream
+  - overcome various obstacles
+  - make great progress
+  - create one miracle after another in human history
+  - meet challenges from real world
+    
+*** 虚拟语气
+
+- If there were no such spirit/quality, he would not have achieved such glory and realized hist dream.
+- Were there no xxx, neither a nation nor an individual can make a long-term development in the future.
+
+* 第二段 中性话题
+
+强调两面性
+
+主题句 + 引入争议 + （正面、论证、转折）+ （反面、论证）
+
+** 第一句话
+
+xx 具有两面性（duality）
+
+- undoub, what lies behind the cartoon is manifest : xx 主题词, as a perfect combination of an angel/blessing and  a devil/curses, is in possession of both advantages/benefits/merits/strengths and disadvantages/drawbacks/vulnerabilities/demerits/shorcomings.
+- undoubtedly, the picture distinctly mirrors the duality of the relationship between A and B.
+  
+** 第二句话
+
+引出争议
+
+concerning/regarding/with regard to the issue of xx, people's views vary from one to another./people's views polarize/there is much controversy among people.
+
+** 第三句话
+
+正面好处 + 论证 + 转折 + 反面（坏处）+ 论证
+
+A majority of people hold the view that xx has a beneficial influence on the growth of teenagers to + 好处, for example, 例子. However a majority of individuals maintain that + 坏处 + such as + 例子
+
+好处：
+  - lay a solid foundation for ..
+    为...奠定坚实的基础
+  - have an influence on 、play a role in
+  - it will offer us extreme convenience in many aspects of our life
+    if will bring a multitude of merits/benefits.
+
+坏处：
+  - something pose a probable and potential treat on ..
+  - it will bring a multitude of demerits/disadvantages/drawbacks
+  - it is harmful/hazardous/detrimental to sth
+  - it cause damages to the society both materially and mentally
+
+* 第三段 （3 - 4 句）
+
+归纳总结 + 建议措施 + 展望未来
+
+** 第一句
+
+*** 正向话题
+
+从上述讨论中，我们能得出结论：xx 应该被珍惜/鼓励/提倡
+
+weighing up the above aspects, I reckon that not until we realize the significance of xx and put it into practice can we cultivate it gradually
+
+#+begin_quote
+综合以上各方面，我认为只有认识到xx的重要性并付诸实践，我们才能逐步培养它
+#+end_quote
+
+*** 负向话题
+
+情况如此严重，我们必须采取有效措施解决这一问题
+
+The situation being so serve/serious/terrible/grave, it is high time that we should take effective measures to solve this worrisome problem.
+
+*** 中性话题
+
+如果一不小心地使用或无节制地使用，xx 将会是一把双刃剑
+
+If used carelessly or without restraints, xx could prove to be a double-edged sword.
+
+** 第二句 建议措施
+
+正向不用写
+
+1. 法律法规
+   Laws and regulations should be enactd and enforced to save the situation fro aggregation.
+2. 相关部门
+   Government and the department concerned should shoulder the responsibility to educate to save the situation from aggravation
+3. 媒体
+   the mass media, such as television and the internet, ought to spare no effect to propagate and advocate/curb it.
+4. 公众
+   the general public are supposed to cultivate the awareness of xx.
+   
+** 第三句 展望未来
+
+1. 只有通过共同的努力，我们才能一直这个现象，并且打造一个更加和谐的社会（用于负向）。
+   Only through the joint efforts can we curb the current situation and expect a more harmonious society.
+2. 只有通过这个，我们不仅能...还能...（正向负向均可）
+   Only in this way can we not only do sth but also do sth
+
+   do sth:
+   - live a better life
+   - put and end to tachism worrisome trend
+   - expect a brighter future
+   - make our life more meaningful
+   - make our world more colorful and vigorous
+   - build a sound society
+   - enjoy a more harmonious society
+   - stand out in this intensively competitive society
+     在这个强烈竞争的社会中脱颖而出
+   - keep a sustainable development
+     
+* 总结
+
+正向：
+  第一段：
+    1. 如图所示 + 描述图片（4 要素、倒装）
+    2. 总结主题
+    3. 过渡句
+
+  第二段：
+    1. 主题句
+    2. 1~2 个作用
+    3. 例子
+    4. 具体例子
+
+  第三段：
+    1. 归纳总结
+    2. 展望未来
+
+负向：
+  第一段：
+    1. 如图所示 + 描述图片（4 要素、倒装）
+    2. 总结主题
+    3. 过渡句
+
+  第二段：
+    1. 主题句
+    2. 原因引出句
+    3. 分析原因（第一、第二）
+    4. 引出结果
+
+  第三段：
+    1. 归纳总结
+    2. 建议措施
+    3. 展望未来
