@@ -1,3 +1,7 @@
+OPTIONS: tags: nil
+#+TITLE: 英语大作文
+#+AUTHOR: 金中甲
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 * 大作文
 
 品质品德（正向）
