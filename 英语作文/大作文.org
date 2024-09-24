@@ -45,26 +45,26 @@ Emerging the elaborately painted cartoon is a scene in which + 描述图片
    地点 + is/are doing sb/sth doing sth with 伴随
 
 常用人物词：
-  man, woman, boy, girl, mother, father, son, daughter, student, teenager, young people youngster
+  man, woman, boy, girl, mother, father, son, daughter, student, teenager, young people, youngster
 
 动作词：
   stand in, squat 蹲, walk, run, jump, hold, lie, crouch 蜷缩
   
 地点词：
-  ont the step
-  in the chair
-  on the stool
-  on the boat
-  on the road
-  on the playground
-  at the fork of a road
-  at the crossroads
-  on the table
-  under the table
-  in front of the table
-  in front of the blackboard
-  on the bank
-  by the lake
+  - on the step
+  - in the chair
+  - on the stool
+  - on the boat
+  - on the road
+  - on the playground
+  - at the fork of a road
+  - at the crossroads
+  - on the table
+  - under the table
+  - in front of the table
+  - in front of the blackboard
+  - on the bank
+  - by the lake
 
 多人/多图：
   1. 相反：
@@ -85,14 +85,14 @@ the caption below the picture indicates "文字说明"
 
 尽管这个图片很简单，但是其寓意深刻
 
-1. Simple as the picture is/seems to be the symbolic meaning is profound/thought-provoking as deep as ocean.
-2. Not only informative is the implication/meaning of the cartoon, but also enlightening/instructive as well.
+1. Simple as the picture is / seems to be the symbolic meaning is profound / thought-provoking as deep as ocean.
+2. Not only informative is the implication / meaning of the cartoon, but also enlightening / instructive as well.
    
 * 第二段 社会问题 抽象品质（+）
 
 ** 第一句话 主题句
 
-It is apparent/clear-cut that cartoonist aims at reminding us that as ..., nothing is more indispensable that xx which is supposed to be esteemed and encouraged/paid due attention
+It is apparent / clear-cut that cartoonist aims at reminding us that as ..., nothing is more indispensable that xx which is supposed to be esteemed and encouraged / paid due attention
 
 1. as ..:
    as a driving force for development as one of the most important qualities to one's growth
@@ -105,58 +105,63 @@ It is apparent/clear-cut that cartoonist aims at reminding us that as ..., nothi
      
 ** 第二句话：原因引出句
 
-1. we may cite a variety of reasons contributing to/responsible for this situation and the following two/three are the mains
-2. why, you may wonder, does the phenomenon occur/emerge?
-3. what are the mian reasons/dominant reasons/driving factors contributing to the phenomenon/problem reflected by the picture?
+1. we may cite a variety of reasons contributing to / responsible for this situation and the following two / three are the mains
+2. why, you may wonder, does the phenomenon occur / emerge?
+3. what are the mian reasons / dominant reasons / driving factors contributing to the phenomenon / problem reflected by the picture?
    
 ** 第三句话：分析原因
 
 逻辑连接词：
+
   第一：
-    firstly, in the first place
-    for the one hand
+    - firstly, in the first place
+    - for the one hand
+    
   第二：
-    secondly,in the second place
-    for the other hand
+    - secondly,in the second place
+    - for the other hand
+    
   第三：
-    finally last but not least
-    more importantly
+    - finally last but not least
+    - more importantly
 
 原因：
   1. 个人
-     a great number of people have (not) recognized the importance of xx (主题词) which sets a positive/negative example for the society.
+     - a great number of people have (not) recognized the importance of xx (主题词) which sets a positive/negative example for the society.
+     
      替换表达：
-     people lack the conscious ness of xx (doing sth).
+     - people lack the conscious ness of xx (doing sth).
   2. 他人：
-     individuals with any group or organization (do not) feel supported by peers, families or leaders
+     - individuals with any group or organization (do not) feel supported by peers, families or leaders
   3. 经济：
-     the development of a country's economy has greatly affected peoples behavior or minds based on a variety of factors.
+     - the development of a country's economy has greatly affected peoples behavior or minds based on a variety of factors.
   4. 科技：
-     the rapid development of technology has greatly changed peoples lives in many aspects, such as social interaction, education and so on
+     - the rapid development of technology has greatly changed peoples lives in many aspects, such as social interaction, education and so on
   5. 法律法规的缺失
-     due to the lack of relevant/pertinent laws and regulations, thiose who + ... would not be publish
+     - due to the lack of relevant/pertinent laws and regulations, thiose who + ... would not be publish
+     
      高级：
-       the lack of effective supervision and discipline contributed to the deterioration/worsening/aggravation of the problem because few would defy the law under the bare daylight if they know their behavior could incur server punishment
+       - the lack of effective supervision and discipline contributed to the deterioration/worsening/aggravation of the problem because few would defy the law under the bare daylight if they know their behavior could incur server punishment
        #+begin_quote 翻译
        缺乏有效的监督和纪律导致了问题的恶化，因为如果他们知道自己的行为会受到严厉的惩罚，很少有人会在光天化日之下违抗法律
        #+end_quote
   6. 经济高级版
-     with the market-oriented economy devloping at one accelerating rate, it can be noticed that economic benefits become the sole.
-     pursuit for some people, regardless of their social responsibility/accountability, the notion of family and xx (主题词)
+     -  with the market-oriented economy devloping at one accelerating rate, it can be noticed that economic benefits become the sole.
+     - pursuit for some people, regardless of their social responsibility/accountability, the notion of family and xx (主题词)
   7. 经济高级版2
-     with the market-oriented economy developing at an accelerating rate, a mushrooming number of individuals are involved in doing sth, lsing sight of the significance of xx (主题词)
+     - with the market-oriented economy developing at an accelerating rate, a mushrooming number of individuals are involved in doing sth, lsing sight of the significance of xx (主题词)
   8. 社会成因
-     Another factors responsible for this phenomenon is xxx, which leads to the deterioration of the situation/which gives rise to the further worsening of the picture/situation xxx
+     - Another factors responsible for this phenomenon is xxx, which leads to the deterioration of the situation/which gives rise to the further worsening of the picture/situation xxx
      
-社会的不良风气：undesirable social atmosphere
-社会竞争：increasing competition in current society
-不恰当的社会理念：improper/inappropriate notion of education/society
-生活工作压力大：growing pressure both from life and work
-媒体报道不公正：partial and prejudices coverage of mass media
+- 社会的不良风气：undesirable social atmosphere
+- 社会竞争：increasing competition in current society
+- 不恰当的社会理念：improper/inappropriate notion of education/society
+- 生活工作压力大：growing pressure both from life and work
+- 媒体报道不公正：partial and prejudices coverage of mass media
 
 ** 第四句话：引出结果
 
-were the heart-breaking/worrisome situation to continue, we should pay a heavy price.
+were the heart-breaking / worrisome situation to continue, we should pay a heavy price.
 
 * 第二段 正向话题
 （作用/影响）
@@ -165,10 +170,11 @@ were the heart-breaking/worrisome situation to continue, we should pay a heavy p
 
 ** 第一句话
 
-the impressive cartoon subtly emphasis/highlight/demonstrates that xx has exerted a significant/thought-provoking/prefound/far-reaching/desirable/favorable/beneficial/conducive/positive influence on individual, society and nation.
+the impressive cartoon subtly emphasis / highlight / demonstrates that xx has exerted a significant / thought-provoking / prefound / far-reaching / desirable / favorable / beneficial / conducive / positive influence on individual, society and nation.
 
 替换表达:
-from my perspective,/when it comes to me / from where I stand , xx , as a kind of social positive power, acts as a key role for the socialist ideological and ethical progress.
+
+from my perspective, / when it comes to me / from where I stand , xx , as a kind of social positive power, acts as a key role for the socialist ideological and ethical progress.
 
 在我看来，xx 作为 ...，对社会主义精神文明建设起到了重要的作用
 
@@ -249,14 +255,14 @@ do sth:
 
 xx 具有两面性（duality）
 
-- undoub, what lies behind the cartoon is manifest : xx 主题词, as a perfect combination of an angel/blessing and  a devil/curses, is in possession of both advantages/benefits/merits/strengths and disadvantages/drawbacks/vulnerabilities/demerits/shorcomings.
+- undoub, what lies behind the cartoon is manifest : xx 主题词, as a perfect combination of an angel / blessing and  a devil / curses, is in possession of both advantages / benefits / merits / strengths and disadvantages / drawbacks / vulnerabilities / demerits / shorcomings.
 - undoubtedly, the picture distinctly mirrors the duality of the relationship between A and B.
   
 ** 第二句话
 
 引出争议
 
-concerning/regarding/with regard to the issue of xx, people's views vary from one to another./people's views polarize/there is much controversy among people.
+concerning / regarding / with regard to the issue of xx, people's views vary from one to another. / people's views polarize / there is much controversy among people.
 
 ** 第三句话
 
@@ -269,12 +275,12 @@ A majority of people hold the view that xx has a beneficial influence on the gro
     为...奠定坚实的基础
   - have an influence on 、play a role in
   - it will offer us extreme convenience in many aspects of our life
-    if will bring a multitude of merits/benefits.
+    if will bring a multitude of merits / benefits.
 
 坏处：
   - something pose a probable and potential treat on ..
-  - it will bring a multitude of demerits/disadvantages/drawbacks
-  - it is harmful/hazardous/detrimental to sth
+  - it will bring a multitude of demerits / disadvantages / drawbacks
+  - it is harmful / hazardous / detrimental to sth
   - it cause damages to the society both materially and mentally
 
 * 第三段 （3 - 4 句）
@@ -285,7 +291,7 @@ A majority of people hold the view that xx has a beneficial influence on the gro
 
 *** 正向话题
 
-从上述讨论中，我们能得出结论：xx 应该被珍惜/鼓励/提倡
+从上述讨论中，我们能得出结论：xx 应该被珍惜 / 鼓励 / 提倡
 
 weighing up the above aspects, I reckon that not until we realize the significance of xx and put it into practice can we cultivate it gradually
 
@@ -297,7 +303,7 @@ weighing up the above aspects, I reckon that not until we realize the significan
 
 情况如此严重，我们必须采取有效措施解决这一问题
 
-The situation being so serve/serious/terrible/grave, it is high time that we should take effective measures to solve this worrisome problem.
+The situation being so serve / serious / terrible / grave, it is high time that we should take effective measures to solve this worrisome problem.
 
 *** 中性话题
 
@@ -310,20 +316,20 @@ If used carelessly or without restraints, xx could prove to be a double-edged sw
 正向不用写
 
 1. 法律法规
-   Laws and regulations should be enactd and enforced to save the situation fro aggregation.
+   - Laws and regulations should be enactd and enforced to save the situation fro aggregation.
 2. 相关部门
-   Government and the department concerned should shoulder the responsibility to educate to save the situation from aggravation
+   - Government and the department concerned should shoulder the responsibility to educate to save the situation from aggravation
 3. 媒体
-   the mass media, such as television and the internet, ought to spare no effect to propagate and advocate/curb it.
+   - the mass media, such as television and the internet, ought to spare no effect to propagate and advocate/curb it.
 4. 公众
-   the general public are supposed to cultivate the awareness of xx.
+   - the general public are supposed to cultivate the awareness of xx.
    
 ** 第三句 展望未来
 
 1. 只有通过共同的努力，我们才能一直这个现象，并且打造一个更加和谐的社会（用于负向）。
-   Only through the joint efforts can we curb the current situation and expect a more harmonious society.
+   - Only through the joint efforts can we curb the current situation and expect a more harmonious society.
 2. 只有通过这个，我们不仅能...还能...（正向负向均可）
-   Only in this way can we not only do sth but also do sth
+   - Only in this way can we not only do sth but also do sth
 
    do sth:
    - live a better life
@@ -334,7 +340,7 @@ If used carelessly or without restraints, xx could prove to be a double-edged sw
    - build a sound society
    - enjoy a more harmonious society
    - stand out in this intensively competitive society
-     在这个强烈竞争的社会中脱颖而出
+       在这个强烈竞争的社会中脱颖而出
    - keep a sustainable development
      
 * 总结

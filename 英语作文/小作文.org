@@ -1,0 +1,467 @@
+#+OPTIONS: tags: nil
+#+TITLE: 英语小作文
+#+AUTHOR: 金中甲
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+* 小作文
+
+*不要使用缩写词，包括 I‘m*
+
+** 格式
+
+*** 书信
+
+#+ATTR_HTML:
+#+BEGIN_HTML
+Dear xxx，（左顶格）
+#+END_HTML
+
+#+begin_quote 注意
+段首空四个字母！！！
+#+end_quote
+
+#+ATTR_HTML: :style text-indent: 2em;
+#+BEGIN_HTML
+第一段（问候类，自我介绍 + 写信目的）两句话这是一个段首对齐两个字符的段落。
+这个段落的每一行都会有两个字符的缩进。
+#+END_HTML
+
+#+ATTR_HTML: :style text-indent: 2em;
+#+BEGIN_HTML
+第二段 3 - 4 句话，主题句 + 分论点（第一、第二、第三）
+#+END_HTML
+
+#+ATTR_HTML: :style text-indent: 2em;
+#+BEGIN_HTML
+第三段 结尾两句话（总结句，致谢 + 期待，祝福））
+#+END_HTML
+
+#+ATTR_HTML: :style text-indent: 2em;
+#+BEGIN_HTML
+第三段 结尾两句话（总结句，致谢 + 期待，祝福））
+#+END_HTML
+
+#+ATTR_HTML: :style text-align: right;
+#+BEGIN_HTML
+【逗号，右顶格】Yours sincerely,
+#+END_HTML
+
+#+ATTR_HTML: :style text-align: right;
+#+BEGIN_HTML
+【无标点，右顶格】Li Ming
+#+END_HTML
+
+xxx: Students, Classmates, Professor(Wang) Presdent(校长)
+
+不认识的人：
+   - Dear Sir or Dear Madam
+   - To whom It May Concern 致相关人士
+
+*** 通知 / 告示
+
+
+#+ATTR_HTML: :style text-align: center;
+#+BEGIN_HTML
+Notice【居中】
+#+END_HTML
+
+#+ATTR_HTML: :style text-align: right;
+#+BEGIN_HTML
+月 日，年【右顶格】
+#+END_HTML
+
+#+ATTR_HTML: :style text-align: right;
+#+BEGIN_HTML
+May 5th, 2024
+#+END_HTML
+
+#+begin_quote 注意
+段首空四个字母！！！
+#+end_quote
+
+
+#+ATTR_HTML: :style text-indent: 2em;
+#+BEGIN_HTML
+第一段：通知内容 + 活动目的
+#+END_HTML
+
+#+ATTR_HTML: :style text-indent: 2em;
+#+BEGIN_HTML
+第二段：具体细节（时间地点 + 要求）
+#+END_HTML
+
+#+ATTR_HTML: :style text-indent: 2em;
+#+BEGIN_HTML
+第三段：联系方式
+#+END_HTML
+
+#+ATTR_HTML: :style text-align: right;
+#+BEGIN_HTML
+主办方【右顶格】
+#+END_HTML
+
+ - 学生会 the Student's Union
+ - 研究生协会 the Postgraduate's Association
+ 
+*** 建议信
+
+识别：
+   - v：suggest、advise、propose
+   - n：suggestions、advice、proposals
+
+提出：
+   - put forward
+   - offer sb sth
+   - come up with
+   - provide sb with sth
+   - provide sth for sb
+
+*** 邀请信
+
+识别：invite / invitation
+
+Invite sb as a/an 职位 for 活动名称 helo by 主办方
+
+*** 推荐信
+
+识别：recommend / recommendation
+
+*** 道歉信
+
+- Apologize to sb for doing sth
+- Make an apology to sb for doing sth
+
+*** 投诉信
+
+- Complain about
+- Make a complaint about
+- Show my dissatisfaction with sth
+- show my disappointment to sth
+
+*** 感谢信
+
+识别：appreciate / appreciation / gratitude
+
+*** 祝贺信
+
+识别：congratulate / congratulation
+
+*** 申请信
+
+apply for = file for, application
+
+*** 咨询信
+
+- consult / ask for / inquire
+- consultation / inquiry
+
+*** 书信
+
+**** 第一段 第一句
+
+自我介绍
+
+I am a sb of 某机构 who ...
+
+sb:
+  - student (freshman 大一, sophomore 大二, junior 大三, senior 大四)
+  - consumer
+  - user
+  - citizen
+  - member
+
+某机构：
+  - Beijing University
+  - Tsinghua University
+  - Beijing Normal University
+  - ABC University
+  - the Students' Union
+
+  外语系：
+    - the Foreign Languages Department (in our university)
+    - the Law Department
+
+who:
+  - majors in ...
+  - is in charge of ...
+  - has purchased ...
+  - takes an interest in ...
+  - I, as a/an 身份, am writing the letter/mail to sb
+  - This letter comes to you from a/an 身份 named Li Ming
+
+问候：
+  - It has been a long time since we met last time
+  - I wonder if everything goes smoothly with your recently
+  - How are things going recently
+  
+**** 第一段 第二句 写信目的
+
+I am writing this letter/mail:
+  - in hpes of doing 题干
+  - to you to 题干
+  - for the purpose of doing 题干
+
+I'am writing this letter/email to you to:
+  - make suggestions for
+  - make an application for
+  - make a complaint for
+  - express my sincere gratitude for
+  - express my sincere congratulations for
+  - express my sincere apology for
+  - seek some information about sth
+
+适用于：建议信，咨询信 建议 + 好处
+
+适用于：
+  - 推荐信（夸物）
+  - 申请信（夸自己）
+  - 邀请信（夸他人）
+  时间 地点 活动名称 活动环节 主题 理由 好处
+
+好处：
+  - make a lot of friends
+  - broaden our knowledge
+  - become more independent / open-minded
+  - expand one's outlook
+  - relieve one's pressure / stress and anxiety
+  - take a break from busy life
+  - forget all worries and sadness
+  - calm one's nerve
+  - a regulate healthy sleep schedule
+  - health diet
+  - shape one's character
+  - acquire knowledge and skills
+  - accumulate relevant experience
+  - comprehend the development of chinese traditional culture
+  - be excellent in listening and speaking
+  - keep up with the development of
+  - acquire/obtain great satisfaction from xx related experience
+  - bring sb a lot of fun
+  - provide sb with a form of recreation
+
+建议：
+  - balance one's diet
+  - participate in leisure activities
+  - make a lot of friends
+  - shouldn't stay up late and get up earlier
+  - take/conduct regular exercise
+  - enhance the capacity of fundamental knowledge
+  - find some specialty-related reference book from library
+  - participate in the extra-curriculum / specially-related activities
+  - introduce a novel system
+  - construct a brand new infrastructure such as ...
+  - assess students' needs/requirements
+  - extend / prolong the opening hours of xx
+  - make a chain of plans about xx
+  - launch a wide range of projects about/concerning xx
+  - improve one's mental health
+  - cultivate/promote/boost the public awareness of xx
+  - find a port-time job
+  - visit some place of interest
+    
+**** 第二段
+
+- it would be greatly tankful/appreciated  if you could do sth, because/since/due to the fact that + 好处
+- it is advisable/necessary/imperative for you to do stg, so that + 好处
+- it would be more beneficial/conducive if you could do sth to + 好处
+
+类型二：理由 + 好处
+
+推荐信、申请信、邀请信 => 时间地点、活动名称、环节、主题
+
+- since/because/dur to the fact/ on account of + 短语 + 原因，it helps to do sth
+- There is/are 原因 in sth,so I strongly believe that + 好处
+
+二段开头：
+
+  - The primary factors are as follows
+  - I can find no letter factors other than the follows
+
+推荐电影：
+  - Harry Potter
+  - Find Nemo
+  - Avengers
+  - Up
+  - La La land
+  - The last Emperor
+  
+推荐景点：
+  - the Great Wall
+  - the Forbidden City
+  - the Summer Palace
+  - the Yellow Crane Tower
+  - HuangShang Mountain
+  - West Lake
+  - Terracotto Warrior
+  - the Wild Goose pagoda
+
+推荐历史人物：
+  - Li Bai
+  - Du Fu
+  - Cai Lun
+  - Li Shi Zhen
+  - Zheng He
+  - Lu Xun
+  - Mo Yan
+  - Yao Ming
+  - Tu You You
+  - Jackie Chan 成龙
+  - Yuan LongPing
+  - Mao Zedong
+
+**** 邀请信
+
+***** 第二段
+
+- It will be held at/in 地点 on 日期（月 日 年）
+- It is advisable for you to know that the 活动名称 (is about 主题 / consists of two ports)
+- It is in the 地点 at 2 p.m on December 26th, 2025 that the event will be held. Note that it will last two hours and all attending members are advised to arrive 15 minutes ahead.
+
+夸人：
+  - Due to the fact that/sice/because
+  - it helps to 好处
+  - master basic xxs skills
+  - have a basic grounding in xxx skilfulness
+  - possess a good xxx skills
+  - sb possesses a charming / humorous / amiable / upright / knowledgeable / impartial / devoted / / patient / sophisticated / accountable / rigorous / creative / energetic / accomplished / kind / warm-hearted character
+  - speak english fluently
+  - possess relevant experience as xx / in doing sth
+  - possess excellent academic performance / perform xx at on outstanding level
+  - maintain a high GPA
+  - possess a good communicative skill
+  - work well under pressure
+
+常见地点：
+  - library
+  - gymnasium
+  - art hall
+  - lecture hall
+  - auditorium
+  - student activity center
+  - basketball court
+    
+-----
+
+- have a dinner party
+- visit some places of interest
+- give sb some encouragement and suggestions
+- a question and answer period for all participants
+- take part in / participate / engage in other activities such as ...
+- afford / cover one's round-trip air ticket and accommodation cost
+- bring some clothes with you due to the lowing temperature
+
+**** 道歉信 投诉信
+
+关键词：solution
+说明情况 + 解决办法
+
+***** 道歉信
+
+疏忽大意：
+  - due to carelessness
+  - in such a hurry that
+  - through a moment's inattention
+生病：
+  - get sick
+  - become injured
+出差：
+  - be on a bussiness trip
+火车/飞机晚点：
+  - the flight is late
+  - the late arrival of the train
+交通堵塞：
+  - stuch in traffice jam
+  - heavy traffic
+解决办法：
+  - buy / send a gift as an apology
+  - rearrange the appointment/meeting
+  - compensate for the damage / any trouble it causes
+
+***** 投诉信
+
+- 质量差： have a bad quality
+- 包装破损：the packing is in bad order
+- 服务态度查：poor service / insufficient customer service / low service efficiency
+- 表情不耐烦：give sb an impatient look
+- 未达到期望：have not meet one's expectation
+
+*** 书信 第三段
+
+**** 表示感谢
+
+- I thank you so mushc for reading my letter / your understanding / your coming / your generous help
+- I am full of gratitude for your time in reading this letter
+- It would be highly appreciated if you could come
+
+**** 表示希望
+
+- Hope the suggestions / recommendation / introduction above will be more or less helpful to you
+- Hope my complaint / my application will be taken into serious consideration
+- Hope my invitation will be accepted
+- Hope my be havior will not affect you so much
+
+**** 表示抱歉
+
+- Again, I am very sorry for any inconvenience caused
+- I sincerely hope this does not cause you too much inconvenience
+
+**** 要求回信
+
+- Your prompt feed back would be highly appreciated
+- I look forward to hearing from you at your earliest convenience
+- I am looking forward to your replay as soon as possible
+- If you want further information, just feel fre to let me know
+
+*** 通知
+
+**** 第一段
+
+- The notice is published/released to introduced sth / recruit sb
+- this event / activity aims to provide students with a chance to accumulate experience
+- help people who are in need of help
+- help students know more about sth
+- help students to enrich their life
+
+**** 第二段
+
+要求：
+- You will ideally possess + 要求
+- The applicants are requestd / expected to do sth
+- The applicants who + 要求 are preferred
+
+**** 第三段
+
+联系方式：
+- To know more about it, please contact us by email: 12345@qq.com
+- If you are interested or would like to know more about it, do not hesitate to contact us by email: 12345@qq.com
+
+** 通知模版
+
+#+ATTR_HTML: :style text-align: center;
+#+BEGIN_HTML
+ Notice(居中)
+#+END_HTML
+
+#+ATTR_HTML: :style text-align: right;
+#+BEGIN_HTML
+ May 5th, 2025（右顶格)
+#+END_HTML
+
+#+ATTR_HTML: :style text-indent: 2em;
+#+BEGIN_HTML
+Do you wnat to have a good opportunity to exercise yourself / participate in xx / know about xx / become xx? Then please pay attention to the following information。
+#+END_HTML
+
+#+ATTR_HTML: :style text-indent: 2em;
+#+BEGIN_HTML
+组织单位 decides to hold 活动, with the aim of enriching college students' campus life and improving their communicative skills. To begin with, it is in the 活动地点 at 2 P.m on December 26th, 2025 that the event will be held. In addition, we are recruiting volunteers for this activity. Students with basic xx (computer) skills and fluent oral english are the most desirable candidates. Here you can meet many new friends and see a variety of novel things, in which I believe you might be interested.Do you wnat to have a good opportunity to exercise yourself / participate in xx / know about xx / become xx? Then please pay attention to the following information。
+#+END_HTML
+
+#+ATTR_HTML: :style text-indent: 2em;
+#+BEGIN_HTML
+If you are interested or would like to know more about it, do not hesitate to contact us by emial: 12345@qq.com
+#+END_HTML
+
+#+ATTR_HTML: :style text-align: right;
+#+BEGIN_HTML
+  the Students' Union(右顶格)
+#+END_HTML
