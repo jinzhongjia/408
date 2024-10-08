@@ -2,6 +2,7 @@
 #+TITLE: 英语小作文
 #+AUTHOR: 金中甲
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+#+LATEX_HEADER: \usepackage{ctex}
 * 小作文
 
 *不要使用缩写词，包括 I‘m*
